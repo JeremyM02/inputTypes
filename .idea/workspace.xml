@@ -7,6 +7,7 @@
     <list default="true" id="3218a728-db69-407b-91e3-5c8b59cc2d1d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +93,7 @@
       <workItem from="1649086031422" duration="1098000" />
       <workItem from="1649087397495" duration="70000" />
       <workItem from="1649100295793" duration="1079000" />
-      <workItem from="1649106504477" duration="104000" />
+      <workItem from="1649106504477" duration="1877000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1649086276496</created>
@@ -108,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649102197995</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Finished 3.4, have not done Practice.">
+      <created>1649107442455</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649107442455</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -162,7 +170,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="Reached Slide 38 in 3.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reached Slide 38 in 3.4" />
+    <MESSAGE value="Finished 3.4, have not done Practice." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished 3.4, have not done Practice." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/style.css">
